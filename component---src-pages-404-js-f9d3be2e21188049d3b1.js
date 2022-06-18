@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[883],{429:function(e,t,n){n.r(t);var r=n(7294),l=n(5592),u=n(262);t.default=function(){return r.createElement(l.Z,null,r.createElement(u.Z,{title:"404: Not found"}),r.createElement("h1",null,"404: Not Found"),r.createElement("p",null,"I'm sorry, but your Tetris is in another castle."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f9d3be2e21188049d3b1.js.map
